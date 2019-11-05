@@ -6,6 +6,8 @@ Onto the point, I'd perfer if you all made an attempt to change the code for you
 
 The token and info inside of the settings.json file is not valid anymore.
 
+Made in: DBM, Run Script JS
+
 # Features 
 Misc. Commands
 -Help Lists available commands
