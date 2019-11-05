@@ -5,7 +5,7 @@ My bot is going to be taken down by myself, I don't have time to contiue develop
 Onto the point, I'd perfer if you all made an attempt to change the code for your own bot, but this is a jumping off point. 
 
 # Notes
-The token and info inside of the settings.json file is not valid anymore.
+The token and info inside of the settings.json file is not valid anymore. Switch the token to your token in settings.json inside of the Data file. 
 
 Download the .zip file, it contains all the code, if you want to view the code online, look at the other files. 
 
