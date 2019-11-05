@@ -4,7 +4,10 @@ Hey party people. Want to make a Discord bot, but don't know how? Remix mine!
 My bot is going to be taken down by myself, I don't have time to contiue developing it as I know run my own discord server. 
 Onto the point, I'd perfer if you all made an attempt to change the code for your own bot, but this is a jumping off point. 
 
+# Notes
 The token and info inside of the settings.json file is not valid anymore.
+
+Download the .zip file, it contains all the code, if you want to view the code online, look at the other files. 
 
 Made in: DBM, Run Script JS
 
